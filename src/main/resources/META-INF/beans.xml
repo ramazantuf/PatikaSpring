@@ -9,4 +9,8 @@
 
     </alternatives>
 
+    <interceptors>
+        <class>com.ramazan.aop.interceptor.InterceptorYolKesiciAsils</class>
+    </interceptors>
+
 </beans>
